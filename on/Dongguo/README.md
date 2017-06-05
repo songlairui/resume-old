@@ -13,47 +13,55 @@
 1. [UI套件练习](https://songlairui.github.io/Combo-the-road/1_practise_ui)  
 设计来自Dribbble  
 CSS3饼图, 自定义Video控件样式,fontawesome图标, flex布局  
+![UI套件练习](../../screenshots/1_practise_1.png)  
 
 2. [Flex响应式页面](https://songlairui.github.io/Practices-Demos/Exercises/style/responsive/index.html)  
 使用flex布局, 实现响应式, 使用了CSS的 calc  
+![Flex](../../screenshots/2_flex.png)  
 
 3. [CSS 环形时钟](https://songlairui.github.io/Combo-the-road/5_clock_ani)  
-设计来自dribbble, 使用animation完成时钟指示.   
+设计来自dribbble, 使用animation完成时钟指示.  
+![Clock-ani](../../screenshots/5-Clock-ani.png)     
 
 4. [图片占位符](https://songlairui.github.io/Combo-the-road/6_img_placeholder)  
 利用浏览器对dom加载的特性, 实现图片平滑懒加载. 
-添加过渡效果, 使用Vue实现. 
+添加过渡效果, 使用Vue实现.   
+![图片占位符](../../screenshots/6-img-placeholderVue.jpg)  
 
 5. 页面功能组件  
 [JS Tab 组件](https://songlairui.github.io/Combo-the-road/16_js_component/)  
-使用原生JS实现, 使用了Class语法糖  
+使用原生JS实现, 使用了Class语法糖   
+![JS-Tab](../../screenshots/11-JS-Tab.png)  
 [JS Slide 组件](https://songlairui.github.io/Combo-the-road/16_js_component/slide.html)  
-使用原生JS实现, 组件参数自定义  
+使用原生JS实现, 组件参数自定义   
+![JS-Slide](../../screenshots/11-JS-Slide.png)  
 
 6. [井字游戏](https://github.com/songlairui/Practices-Demos/blob/master/t2vue/src/components/play/game1.vue)  
 Vue实现,  0智能, 先后手, 电脑随机下棋, 局面判断.   
 
 7. [SVG黏腻效果](https://songlairui.github.io/Combo-the-road/3_svg_ani/)  
-使用SVG滤镜和CSS filter两种方式实现黏腻效果  
+使用SVG滤镜和CSS filter两种方式实现黏腻效果   
+![SVG黏腻效果](../../screenshots/3_svg_ani.png)  
 
 8. [自定义美化select元素](https://songlairui.github.io/Combo-the-road/8_custome_select)  
-创建html同步表单元素状态
+创建html同步表单元素状态  
+![自定义美化select元素](../../screenshots/7-Custom_Select.png)  
 
 9. [CSS 3d 变换嵌套](https://songlairui.github.io/Combo-the-road/12_css3d/index.html)  
+![CSS 3d](../../screenshots/12_css3d.png)  
 
 10. [回到页面顶部](https://songlairui.github.io/Combo-the-road/7_scroll2top/)  
 JS控制, 自定义控制逻辑  
 
-11. [HomePage](https://songlairui.github.io/Combo-the-road/17_home_page/dribbble1.html)  
-设计来自dribbble. 添加JS,按Section进行滚动.   
-
 12. [UI_dashboard](https://songlairui.github.io/Combo-the-road/19_ui_dashboard/)  
-设计来自dribbble. 使用flex布局. 
+设计来自dribbble. 使用flex布局.  
+![UI_dashboard](../../screenshots/19_ui_dashboard.png)  
 
-13. [Login_form](https://songlairui.github.io/Combo-the-road/20_login_form) 设计临摹 登录框
+13. [Login_form](https://songlairui.github.io/Combo-the-road/20_login_form) 设计临摹 登录框  
 设计来自dribbble
 大量使用CSS 3d，
-使用 leancloud 实现用户注册登录，密码找回功能。
+使用 leancloud 实现用户注册登录，密码找回功能。 
+![Login_form](../../screenshots/20-Login_Form.png)  
 
 ## 技能介绍   
 
@@ -80,6 +88,7 @@ JS控制, 自定义控制逻辑
 ## 个人经历  
 
 - 材料学硕士/福州大学 2013.9~2016.6
+- 2014年全国研究生数学建模大赛 二等奖 [获奖名单](http://gmcm.seu.edu.cn/00/bf/c24a191/page.htm)
 - Java实施  2016.6~今
 - CET6 477
 
@@ -96,9 +105,12 @@ JS控制, 自定义控制逻辑
  使用了节流函数,优化了数据持久化.  
  Dashboard页面熟练使用了call,desturcting赋值,reduce方法,将数据转变成为嵌套的HTML解构并匹配好嵌套的3D CSS变换.使用了事件委托,响应交互操作. 
  使用了新数据类型Map, 进行与数据同步的DOM增删 .   
+ ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)   
+ ![浏览Idea捕捉_管理](../../screenshots/Capture_Behavior.png)   
 
  - 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
- 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化. 
+ 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.   
+ ![Coding-Show](../../screenshots/coding-show.jpg)  
 
  - [SlimerJS使用实例](https://songlairui.github.io/Combo-the-road/14_auth_js/)  
  对需要指定网页进行认证的无线网络,自动打开firefox并输入密码进行认证  

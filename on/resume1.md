@@ -1,7 +1,12 @@
 ## 个人信息  
-- 宋来瑞 / 1991.10 
+- 宋来瑞 / 男 / 1991.10 
 - 目标岗位: Web 前端程序员
+- 期望薪资: 税前月薪13k~20k
+- 期望城市: 北京、深圳、上海
 - 自我介绍: 喜欢阅读, 喜欢思考. 
+- 手机：17600108400
+- Email：songlairui@qq.com
+- QQ：songlairui@qq.com
 
 ## 项目经历
 
@@ -44,6 +49,11 @@ JS控制, 自定义控制逻辑
 
 12. [UI_dashboard](https://songlairui.github.io/Combo-the-road/19_ui_dashboard/)  
 设计来自dribbble. 使用flex布局. 
+
+13. [Login_form](https://songlairui.github.io/Combo-the-road/20_login_form) 设计临摹 登录框
+设计来自dribbble
+大量使用CSS 3d，
+使用 leancloud 实现用户注册登录，密码找回功能。
 
 ## 技能介绍   
 

@@ -1,3 +1,13 @@
+<style>
+img{
+  max-width:240px;
+  display:inline;
+}
+img ~ img::after{
+  content:'';
+  display:block;
+}
+</style>
 ## 个人信息  
 - 宋来瑞 / 男 / 1991.10 
 - 目标岗位: Web 前端程序员
@@ -60,8 +70,8 @@ JS控制, 自定义控制逻辑
 13. [Login_form](https://songlairui.github.io/Combo-the-road/20_login_form) 设计临摹 登录框  
 设计来自dribbble
 大量使用CSS 3d，
-使用 leancloud 实现用户注册登录，密码找回功能。 
-![Login_form](../../screenshots/20-Login_Form.png)  
+使用 leancloud 实现用户注册登录，密码找回功能。  
+![Login_form](../../screenshots/20-Login_Form.png)   
 
 ## 技能介绍   
 
@@ -97,7 +107,7 @@ JS控制, 自定义控制逻辑
  - Github [github.com/songlairui](https://github.com/songlairui)
 
  - Chrome插件 -- [浏览Idea捕捉](https://github.com/songlairui/CaptureBehavior)  
- [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)  
+ [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)   
  对chrome自带的api进行了promise化封装.   
  使用了leancloud, 对部分api进行了promise化封装.   
  使用了async 读取local数据.   
@@ -105,14 +115,14 @@ JS控制, 自定义控制逻辑
  使用了节流函数,优化了数据持久化.  
  Dashboard页面熟练使用了call,desturcting赋值,reduce方法,将数据转变成为嵌套的HTML解构并匹配好嵌套的3D CSS变换.使用了事件委托,响应交互操作. 
  使用了新数据类型Map, 进行与数据同步的DOM增删 .   
- ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)   
+ ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)
  ![浏览Idea捕捉_管理](../../screenshots/Capture_Behavior.png)   
 
  - 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
- 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.   
+ 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.  
  ![Coding-Show](../../screenshots/coding-show.jpg)  
 
- - [SlimerJS使用实例](https://songlairui.github.io/Combo-the-road/14_auth_js/)  
+ - [SlimerJS使用实例](https://github.com/songlairui/Combo-the-road/tree/master/14_auth_js)  
  对需要指定网页进行认证的无线网络,自动打开firefox并输入密码进行认证  
 
  - [Gulp 使用实例](https://github.com/songlairui/Combo-the-road)  

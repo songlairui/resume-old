@@ -1,22 +1,43 @@
-<style>
-img{
-  max-width:240px;
-  display:inline;
-}
-img ~ img::after{
-  content:'';
-  display:block;
-}
-</style>
+> 在线地址:  [https://songlairui.github.io/resume/on/Dongguo/](https://songlairui.github.io/resume/on/Dongguo/)
+
+
 ## 个人信息  
+
 - 宋来瑞 / 男 / 1991.10 
-- 目标岗位: Web 前端程序员
-- 期望薪资: 税前月薪13k~20k
-- 期望城市: 北京、深圳、上海
-- 自我介绍: 喜欢阅读, 喜欢思考. 
-- 手机：17600108400
-- Email：songlairui@qq.com
-- QQ：songlairui@qq.com
+  - 材料学硕士 / 福州大学 2013-2016 
+  - 喜欢阅读, 喜欢思考.  
+- 目标: Web 前端程序员
+  - 税前月薪13k~20k 
+  - @ 北京、深圳、上海、杭州
+- 联系方式
+  - 手机: 17600108400
+  - Email: songlairui@qq.com
+  - QQ: 371403104
+
+## 个人经历  
+
+- CET6 477
+- [2014年全国研究生数学建模大赛 二等奖](http://gmcm.seu.edu.cn/00/bf/c24a191/page.htm)
+- Java实施  2016.6~今
+
+## 个人作品  
+
+- Chrome插件 -- [浏览Idea捕捉](https://github.com/songlairui/CaptureBehavior)  
+ [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)   
+ 对chrome自带的api进行了promise化封装.   
+ 使用了leancloud, 对部分api进行了promise化封装.   
+ 使用了async 读取local数据.   
+ Popup页面利用contenteditable属性创建了原格式输入域,使用JS进行字符trim.  
+ 使用了节流函数,优化了数据持久化.  
+ Dashboard页面熟练使用了call,desturcting赋值,reduce方法,将数据转变成为嵌套的HTML解构并匹配好嵌套的3D CSS变换.使用了事件委托,响应交互操作. 
+ 使用了新数据类型Map, 进行与数据同步的DOM增删 .   
+ ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)
+ ![浏览Idea捕捉_管理](../../screenshots/Capture_Behavior.png)   
+
+- 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
+线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.  
+![Coding-Show](../../screenshots/coding-show.jpg)  
+
 
 ## 项目经历
 
@@ -95,32 +116,9 @@ JS控制, 自定义控制逻辑
 - 熟悉各种效率工具，如 AHK, phantomjs, rainmeter.
 - 了解路由表, 会多重网络和网络共享. 
 
-## 个人经历  
-
-- 材料学硕士/福州大学 2013.9~2016.6
-- 2014年全国研究生数学建模大赛 二等奖 [获奖名单](http://gmcm.seu.edu.cn/00/bf/c24a191/page.htm)
-- Java实施  2016.6~今
-- CET6 477
-
 ## 其他  
 
  - Github [github.com/songlairui](https://github.com/songlairui)
-
- - Chrome插件 -- [浏览Idea捕捉](https://github.com/songlairui/CaptureBehavior)  
- [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)   
- 对chrome自带的api进行了promise化封装.   
- 使用了leancloud, 对部分api进行了promise化封装.   
- 使用了async 读取local数据.   
- Popup页面利用contenteditable属性创建了原格式输入域,使用JS进行字符trim.  
- 使用了节流函数,优化了数据持久化.  
- Dashboard页面熟练使用了call,desturcting赋值,reduce方法,将数据转变成为嵌套的HTML解构并匹配好嵌套的3D CSS变换.使用了事件委托,响应交互操作. 
- 使用了新数据类型Map, 进行与数据同步的DOM增删 .   
- ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)
- ![浏览Idea捕捉_管理](../../screenshots/Capture_Behavior.png)   
-
- - 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
- 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.  
- ![Coding-Show](../../screenshots/coding-show.jpg)  
 
  - [SlimerJS使用实例](https://github.com/songlairui/Combo-the-road/tree/master/14_auth_js)  
  对需要指定网页进行认证的无线网络,自动打开firefox并输入密码进行认证  
@@ -128,7 +126,7 @@ JS控制, 自定义控制逻辑
  - [Gulp 使用实例](https://github.com/songlairui/Combo-the-road)  
  创建npm script, 使用自定义命令进行练习项目的新建和serve
 
- - Linux操作：  
+ - Linux操作:   
 [【cgpt技】安装windows后，修复Chrome OS的启动](http://tieba.baidu.com/p/3633924546?pid=65549761855&cid=0#65549761855)  
 [ChromeOS 与 Windows 8.1 的UEFI 引导方式](http://tieba.baidu.com/p/3857206874?pid=70582146746&cid=0#70582146746)  
 [准备重新走一遍chromeos 的安装](http://tieba.baidu.com/p/3848206643?pid=70373436712&cid=0#70373436712)  

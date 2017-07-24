@@ -1,18 +1,33 @@
+
 ## 个人信息  
-- 宋来瑞 / 1991.10 
-- 目标岗位: Web 前端程序员
-- 自我介绍: 喜欢阅读, 喜欢思考. 
+
+- 宋来瑞 / 男 / 1991.10 
+  - 材料学硕士 / 福州大学 2013-2016 
+  - 喜欢阅读, 喜欢思考.  
+- 目标: Web 前端程序员
+  - 税前月薪13k~20k 
+  - @ 北京、深圳、上海、杭州
+- 联系方式
+  - 手机: 17600108400
+  - Email: songlairui@qq.com
+  - QQ: 371403104
+
+## 个人经历  
+
+- CET6 477
+- [2014年全国研究生数学建模大赛 二等奖](http://gmcm.seu.edu.cn/00/bf/c24a191/page.htm)
+- Java实施  2016.6~今
 
 ## 作品
 
 1. Pure Javascript -- [工作项目打包工具](https://github.com/songlairui/amarscf_pack)  
 使用`ws`包通过websocket完成前后端通讯，按需显示子进程标准输出。  
 使用了单例模式、Promise、TextDedoder、事件委托。
-![运行效果](https://songlairui.github.io/amarscfpack/screenshots/amarpack.png)
+![运行结果](https://songlairui.github.io/amarscfpack/screenshots/amarpack.png)
 
 
 2. Chrome插件 -- [浏览Idea捕捉](https://github.com/songlairui/CaptureBehavior)  
- [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)  
+ [Dashboard 预览](https://songlairui.github.io/CaptureBehavior/src/dashboard.html)   
  对chrome自带的api进行了promise化封装.   
  使用了leancloud, 对部分api进行了promise化封装.   
  使用了async 读取local数据.   
@@ -20,15 +35,17 @@
  使用了节流函数,优化了数据持久化.  
  Dashboard页面熟练使用了call,desturcting赋值,reduce方法,将数据转变成为嵌套的HTML解构并匹配好嵌套的3D CSS变换.使用了事件委托,响应交互操作. 
  使用了新数据类型Map, 进行与数据同步的DOM增删 .   
+ ![浏览Idea捕捉_录入](../../screenshots/Capture_Behavior_0.png)
+ ![浏览Idea捕捉_管理](../../screenshots/Capture_Behavior.png)   
 
-3. Vue开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
- 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化. 
+3. Vue 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
+线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.  
 
 4. CSS - [登录框 ](https://songlairui.github.io/Combo-the-road/20_login_form) 
 设计临摹  设计来自dribbble
 使用CSS 3d 完成UI。
 使用 leancloud 实现用户注册登录，密码找回功能。  
-![Login_form](./screenshots/20-Login_Form.png)   
+![Login_form](../../screenshots/20-Login_Form.png)   
 
 ## 技术文章  
 
@@ -48,11 +65,11 @@
 - 熟练使用CSS, 熟悉animation, flex, 媒体查询, 动态REM. 了解预处理和后处理. 
 - 熟练使用JavaScript, 熟悉闭包, 熟悉Promise, 会使用async, fetch. 熟练ES6新增功能-解构赋值, 箭头函数, 展开符号. 了解迭代器,生成器,for ... of.
 - 熟悉排序算法, 熟悉节流与防抖函数, 熟悉事件冒泡与捕捉, 会使用事件委托.
-- 熟悉Vue全家桶, 了解react, 了解JSX. 了解SSR, 会使用Nuxt.js.
+- 熟悉Vue全家桶, 了解React.
 - 了解前端常用工具, 如 webpack, gulp, browser-sync, JsDoc.
 - 熟悉使用Buffer. 
 - 了解单元测试 mocha, chai.
-- 了解HTTP协议, 熟悉各种头部信息, 了解缓存的标识和使用场景. 了解https混合使用对等与非对等加密的方式, 了解websocket协议的发起.
+- 了解HTTP协议, 熟悉头部信息, 缓存的标识及使用场景. 了解https混合使用对等与非对等加密的方式, 了解websocket协议的发起.
 - 了解Node.js 包管理机制, 了解V8内存管理机制, 熟悉异步编程方式. 
 
 **Other**

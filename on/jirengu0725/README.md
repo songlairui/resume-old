@@ -41,7 +41,7 @@
 3. Vue 开源项目 [Coding-Show](https://github.com/HackerValley/Coding-Show-vue)  
 线下活动组建的协作小组共同完成的前后端分离网站 [www.coding-show.com](http://www.coding-show.com) 前端部分. 项目使用了Vue全家桶. 提示信息,分页和评论进行了组件化.  
 
-4. CSS - [登录框 ](https://songlairui.github.io/Combo-the-road/20_login_form) 
+4. CSS - [登录框 ](https://songlairui.github.io/Combo-the-road/20_login_form)   
 设计临摹  设计来自dribbble
 使用CSS 3d 完成UI。
 使用 leancloud 实现用户注册登录，密码找回功能。  
